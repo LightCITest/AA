@@ -1,2 +1,4 @@
 # AA
-exit 1
+echo Hello!
+
+exit 0
